@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+""" What you might hear when you say --Spanish Inquisition. """
 
 SPANISH = '''Nobody expects the Spanish Inquisition!
 Our chief weapon is surprise...surprise and fear...fear and surprise....
@@ -10,3 +10,6 @@ and an almost fanatical devotion to the Pope....
 Our four...no... amongst our weapons....
 amongst our weaponry are such elements as fear, surprise....
 I'll come in again.'''
+
+# Task 9: Multi-line Strings
+# See docstring

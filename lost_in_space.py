@@ -4,3 +4,10 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
+
+KLAXON = WILL_ROBINSON[0:7]
+
+KLAXON *= 8
+
+print KLAXON
+#'Danger Danger Danger Danger Danger Danger Danger Danger '

@@ -18,3 +18,12 @@ NERVOUS_AS = """
 
 
 """
+
+# Task 8: Stripping Characters
+NERVOUS_AS = NERVOUS_AS.strip()
+print NERVOUS_AS
+# "//////////A long-tailed cat in a room full of rockin' chairs.,,,,,,,,,,"
+
+NERVOUS_AS = NERVOUS_AS.rstrip(',').lstrip('/')
+print NERVOUS_AS
+# A long-tailed cat in a room full of rockin' chairs.
